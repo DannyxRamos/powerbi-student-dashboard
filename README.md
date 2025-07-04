@@ -1,11 +1,13 @@
-# powerbi-student-dashboard
 ## Screenshots
 
-Dashboard Overview (dashboard-overview.png)
-Main dashboard view with key performance indicators.
+### Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)  
+_Main dashboard view with an overview of pre-test scores compared to post-test scores._
 
-Overall Breakdown(dashboard-overall-breakdown.png)
-Close-up of GPA and retention trends._
+### Overall Breakdown
+![Overall Breakdown](dashboard-overll-breakdown.png)  
+_Shows the score difference of all students for all courses, and breaks down the percent of students who improved overall._
 
-Course Breakdown (dashboard-course-breakdown.png)
-Demonstration of interactive filters by year and department.
+### Course Breakdown
+![Course Breakdown](dashboard-course-breakdown.png)  
+_Shows growth per course by special populations (language, gender, and IEP)._
