@@ -16,3 +16,4 @@ _Shows the score difference for all students across all courses. This visual bre
 ![Course Breakdown](dashboard-course-breakdown.png)  
 _Displays growth by individual course, disaggregated by special populations including language learners, gender, and students with IEPs. This view supports analysis of equity gaps and identifies where targeted support may be needed._
 
+
