@@ -1,3 +1,7 @@
+## Project Summary
+
+For my teaching tenure presentation, I created this Power BI dashboard to demonstrate my impact on student learning. Using a collection of pre- and post-test scores based on benchmark assessments, the dashboard highlights the growth my students achieved across multiple math courses. It presents overall improvement trends, growth by individual course, and disaggregated data for special populations, including language learners, students with IEPs, and gender groups. This tool helped communicate student progress to stakeholders in a clear, data-driven way.
+
 ## Screenshots
 
 ### Dashboard Overview
