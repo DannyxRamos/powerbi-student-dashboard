@@ -9,7 +9,7 @@ For my teaching tenure presentation, I created this Power BI dashboard to demons
 _Main dashboard view with an overview of pre-test scores compared to post-test scores. This view highlights the growth students achieved overall and provides a quick summary of improvement across all math courses._
 
 ### Overall Breakdown
-![Overall Breakdown](dashboard-overall-breakdown.png)  
+![Overall Breakdown](dashboard-overll-breakdown.png)  
 _Shows the score difference for all students across all courses. This visual breaks down the percentage of students who improved overall, stayed the same, or declined in performance._
 
 ### Course Breakdown
