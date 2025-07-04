@@ -6,12 +6,13 @@ For my teaching tenure presentation, I created this Power BI dashboard to demons
 
 ### Dashboard Overview
 ![Dashboard Overview](dashboard-overview.png)  
-_Main dashboard view with an overview of pre-test scores compared to post-test scores._
+_Main dashboard view with an overview of pre-test scores compared to post-test scores. This view highlights the growth students achieved overall and provides a quick summary of improvement across all math courses._
 
 ### Overall Breakdown
-![Overall Breakdown](dashboard-overll-breakdown.png)  
-_Shows the score difference of all students for all courses, and breaks down the percent of students who improved overall._
+![Overall Breakdown](dashboard-overall-breakdown.png)  
+_Shows the score difference for all students across all courses. This visual breaks down the percentage of students who improved overall, stayed the same, or declined in performance._
 
 ### Course Breakdown
 ![Course Breakdown](dashboard-course-breakdown.png)  
-_Shows growth per course by special populations (language, gender, and IEP)._
+_Displays growth by individual course, disaggregated by special populations including language learners, gender, and students with IEPs. This view supports analysis of equity gaps and identifies where targeted support may be needed._
+
